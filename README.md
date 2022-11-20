@@ -4,7 +4,7 @@
 
 In this problem statement ie. Crypto Topic Detection the machine learning model has to determine whether or not a particular problem statment is related to CryptoCurrency , Blockchain , Web3 , etc. It involves the use of <b> Natural Language Processing , Word Embedding , Topics Modeling , BagOfWords , Sentence Similarity</b> in great detail.
 
-I have multiple datasets ie. term_def.csv , term_abb.csv , sport_results.csv , news_results.csv , art_results , music_results and food_results.
+I have used multiple datasets ie. <b>term_def.csv , term_abb.csv , sport_results.csv , news_results.csv , art_results.csv , music_results.csv and food_results.csv</b>.
 
 I have made use of multiple libraries mainly those are <b>nltk , spacy , pyLDAvis , pandas , gensim </b> , etc.
 
