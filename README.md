@@ -1,6 +1,6 @@
 # Crypto-Topic-Detection
 
-## The project determines whether or not a message is talking about crypto/web3 or not . 
+## The project determines whether or not a sentence is talking about crypto/web3 or not . 
 
 In this problem statement ie. Crypto Topic Detection the machine learning model has to determine whether or not a particular problem statment is related to CryptoCurrency , Blockchain , Web3 , etc. It involves the use of <b> Natural Language Processing , Word Embedding , Topics Modeling , BagOfWords , Sentence Similarity</b> in great detail.
 
